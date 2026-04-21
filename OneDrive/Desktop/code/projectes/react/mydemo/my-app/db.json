@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "description": "Learn the fundamentals of building user interfaces with React."
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Fundamentals",
+      "description": "Master the core concepts of JavaScript programming."
+    }
+  ]
+}
